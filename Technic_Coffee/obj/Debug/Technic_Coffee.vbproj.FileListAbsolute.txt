@@ -1,0 +1,97 @@
+E:\Final\Technic_Coffee\Technic_Coffee\bin\Debug\Technic_Coffee.exe.config
+E:\Final\Technic_Coffee\Technic_Coffee\bin\Debug\Technic_Coffee.exe
+E:\Final\Technic_Coffee\Technic_Coffee\bin\Debug\Technic_Coffee.pdb
+E:\Final\Technic_Coffee\Technic_Coffee\bin\Debug\Technic_Coffee.xml
+E:\Final\Technic_Coffee\Technic_Coffee\obj\Debug\Technic_Coffee.Form1.resources
+E:\Final\Technic_Coffee\Technic_Coffee\obj\Debug\Technic_Coffee.Resources.resources
+E:\Final\Technic_Coffee\Technic_Coffee\obj\Debug\Technic_Coffee.vbproj.GenerateResource.Cache
+E:\Final\Technic_Coffee\Technic_Coffee\obj\Debug\Technic_Coffee.exe
+E:\Final\Technic_Coffee\Technic_Coffee\obj\Debug\Technic_Coffee.xml
+E:\Final\Technic_Coffee\Technic_Coffee\obj\Debug\Technic_Coffee.pdb
+C:\Users\PALMSTUDENT\Google ไดรฟ์\Technic_Coffee\Technic_Coffee\bin\Debug\Technic_Coffee.exe.config
+C:\Users\PALMSTUDENT\Google ไดรฟ์\Technic_Coffee\Technic_Coffee\obj\Debug\Technic_Coffee.exe
+C:\Users\PALMSTUDENT\Google ไดรฟ์\Technic_Coffee\Technic_Coffee\obj\Debug\Technic_Coffee.xml
+C:\Users\PALMSTUDENT\Google ไดรฟ์\Technic_Coffee\Technic_Coffee\obj\Debug\Technic_Coffee.pdb
+C:\Users\PALMSTUDENT\Google ไดรฟ์\Technic_Coffee\Technic_Coffee\obj\Debug\Technic_Coffee.Form1.resources
+C:\Users\PALMSTUDENT\Google ไดรฟ์\Technic_Coffee\Technic_Coffee\obj\Debug\Technic_Coffee.Resources.resources
+C:\Users\PALMSTUDENT\Google ไดรฟ์\Technic_Coffee\Technic_Coffee\obj\Debug\Technic_Coffee.vbproj.GenerateResource.Cache
+C:\Users\PALMSTUDENT\Google ไดรฟ์\Technic_Coffee\Technic_Coffee\bin\Debug\Technic_Coffee.exe
+C:\Users\PALMSTUDENT\Google ไดรฟ์\Technic_Coffee\Technic_Coffee\bin\Debug\Technic_Coffee.pdb
+C:\Users\PALMSTUDENT\Google ไดรฟ์\Technic_Coffee\Technic_Coffee\bin\Debug\Technic_Coffee.xml
+C:\Users\Tawatchai\Google ไดรฟ์\Technic_Coffee\Technic_Coffee\bin\Debug\Technic_Coffee.exe.config
+C:\Users\Tawatchai\Google ไดรฟ์\Technic_Coffee\Technic_Coffee\obj\Debug\Technic_Coffee.exe
+C:\Users\Tawatchai\Google ไดรฟ์\Technic_Coffee\Technic_Coffee\obj\Debug\Technic_Coffee.xml
+C:\Users\Tawatchai\Google ไดรฟ์\Technic_Coffee\Technic_Coffee\obj\Debug\Technic_Coffee.pdb
+C:\Users\Tawatchai\Google ไดรฟ์\Technic_Coffee\Technic_Coffee\bin\Debug\Technic_Coffee.exe
+C:\Users\Tawatchai\Google ไดรฟ์\Technic_Coffee\Technic_Coffee\bin\Debug\Technic_Coffee.pdb
+C:\Users\Tawatchai\Google ไดรฟ์\Technic_Coffee\Technic_Coffee\bin\Debug\Technic_Coffee.xml
+C:\Users\Tawatchai\Google ไดรฟ์\Technic_Coffee\Technic_Coffee\obj\Debug\Technic_Coffee.Form1.resources
+C:\Users\Tawatchai\Google ไดรฟ์\Technic_Coffee\Technic_Coffee\obj\Debug\Technic_Coffee.Form_Product.resources
+C:\Users\Tawatchai\Google ไดรฟ์\Technic_Coffee\Technic_Coffee\obj\Debug\Technic_Coffee.Resources.resources
+C:\Users\Tawatchai\Google ไดรฟ์\Technic_Coffee\Technic_Coffee\obj\Debug\Technic_Coffee.vbproj.GenerateResource.Cache
+C:\Users\Tawatchai\Google ไดรฟ์\Technic_Coffee\Technic_Coffee\obj\Debug\Technic_Coffee.Form_Customer.resources
+C:\Users\สดซ่าบ้าพลัง\Google ไดรฟ์\Technic_Coffee\Technic_Coffee\bin\Debug\Technic_Coffee.exe.config
+C:\Users\สดซ่าบ้าพลัง\Google ไดรฟ์\Technic_Coffee\Technic_Coffee\obj\Debug\Technic_Coffee.exe
+C:\Users\สดซ่าบ้าพลัง\Google ไดรฟ์\Technic_Coffee\Technic_Coffee\obj\Debug\Technic_Coffee.xml
+C:\Users\สดซ่าบ้าพลัง\Google ไดรฟ์\Technic_Coffee\Technic_Coffee\obj\Debug\Technic_Coffee.pdb
+C:\Users\สดซ่าบ้าพลัง\Google ไดรฟ์\Technic_Coffee\Technic_Coffee\bin\Debug\Technic_Coffee.exe
+C:\Users\สดซ่าบ้าพลัง\Google ไดรฟ์\Technic_Coffee\Technic_Coffee\bin\Debug\Technic_Coffee.pdb
+C:\Users\สดซ่าบ้าพลัง\Google ไดรฟ์\Technic_Coffee\Technic_Coffee\bin\Debug\Technic_Coffee.xml
+C:\Users\สดซ่าบ้าพลัง\Google ไดรฟ์\Technic_Coffee\Technic_Coffee\obj\Debug\Technic_Coffee.Form1.resources
+C:\Users\สดซ่าบ้าพลัง\Google ไดรฟ์\Technic_Coffee\Technic_Coffee\obj\Debug\Technic_Coffee.Form_Customer.resources
+C:\Users\สดซ่าบ้าพลัง\Google ไดรฟ์\Technic_Coffee\Technic_Coffee\obj\Debug\Technic_Coffee.Form_Product.resources
+C:\Users\สดซ่าบ้าพลัง\Google ไดรฟ์\Technic_Coffee\Technic_Coffee\obj\Debug\Technic_Coffee.Resources.resources
+C:\Users\สดซ่าบ้าพลัง\Google ไดรฟ์\Technic_Coffee\Technic_Coffee\obj\Debug\Technic_Coffee.vbproj.GenerateResource.Cache
+C:\Users\สดซ่าบ้าพลัง\Google ไดรฟ์\Technic_Coffee\Technic_Coffee\obj\Debug\Technic_Coffee.Form_Login.resources
+C:\Users\สดซ่าบ้าพลัง\Google ไดรฟ์\Technic_Coffee\Technic_Coffee\obj\Debug\Technic_Coffee.Form_Progress.resources
+C:\Users\สดซ่าบ้าพลัง\Google ไดรฟ์\Technic_Coffee\Technic_Coffee\obj\Debug\Technic_Coffee.Form_Report.resources
+C:\Users\Tawatchai\Google ไดรฟ์\Technic_Coffee\Technic_Coffee\obj\Debug\Technic_Coffee.Form_Login.resources
+C:\Users\Tawatchai\Google ไดรฟ์\Technic_Coffee\Technic_Coffee\obj\Debug\Technic_Coffee.Form_Progress.resources
+C:\Users\Tawatchai\Google ไดรฟ์\Technic_Coffee\Technic_Coffee\obj\Debug\Technic_Coffee.Form_Report.resources
+C:\Users\สดซ่าบ้าพลัง\Desktop\backup\06\Technic_Coffee\bin\Debug\Technic_Coffee.exe.config
+C:\Users\สดซ่าบ้าพลัง\Desktop\backup\06\Technic_Coffee\obj\Debug\Technic_Coffee.exe
+C:\Users\สดซ่าบ้าพลัง\Desktop\backup\06\Technic_Coffee\obj\Debug\Technic_Coffee.xml
+C:\Users\สดซ่าบ้าพลัง\Desktop\backup\06\Technic_Coffee\obj\Debug\Technic_Coffee.pdb
+C:\Users\สดซ่าบ้าพลัง\Desktop\backup\06\Technic_Coffee\bin\Debug\Technic_Coffee.exe
+C:\Users\สดซ่าบ้าพลัง\Desktop\backup\06\Technic_Coffee\bin\Debug\Technic_Coffee.pdb
+C:\Users\สดซ่าบ้าพลัง\Desktop\backup\06\Technic_Coffee\bin\Debug\Technic_Coffee.xml
+C:\Users\สดซ่าบ้าพลัง\Desktop\backup\06\Technic_Coffee\obj\Debug\Technic_Coffee.Form1.resources
+C:\Users\สดซ่าบ้าพลัง\Desktop\backup\06\Technic_Coffee\obj\Debug\Technic_Coffee.Form_Customer.resources
+C:\Users\สดซ่าบ้าพลัง\Desktop\backup\06\Technic_Coffee\obj\Debug\Technic_Coffee.Form_Login.resources
+C:\Users\สดซ่าบ้าพลัง\Desktop\backup\06\Technic_Coffee\obj\Debug\Technic_Coffee.Form_Product.resources
+C:\Users\สดซ่าบ้าพลัง\Desktop\backup\06\Technic_Coffee\obj\Debug\Technic_Coffee.Form_Progress.resources
+C:\Users\สดซ่าบ้าพลัง\Desktop\backup\06\Technic_Coffee\obj\Debug\Technic_Coffee.Form_Report.resources
+C:\Users\สดซ่าบ้าพลัง\Desktop\backup\06\Technic_Coffee\obj\Debug\Technic_Coffee.Resources.resources
+C:\Users\สดซ่าบ้าพลัง\Desktop\backup\06\Technic_Coffee\obj\Debug\Technic_Coffee.vbproj.GenerateResource.Cache
+C:\Users\สดซ่าบ้าพลัง\Desktop\Technic_Coffee\Technic_Coffee\bin\Debug\Technic_Coffee.exe.config
+C:\Users\สดซ่าบ้าพลัง\Desktop\Technic_Coffee\Technic_Coffee\obj\Debug\Technic_Coffee.exe
+C:\Users\สดซ่าบ้าพลัง\Desktop\Technic_Coffee\Technic_Coffee\obj\Debug\Technic_Coffee.xml
+C:\Users\สดซ่าบ้าพลัง\Desktop\Technic_Coffee\Technic_Coffee\obj\Debug\Technic_Coffee.pdb
+C:\Users\สดซ่าบ้าพลัง\Desktop\Technic_Coffee\Technic_Coffee\bin\Debug\Technic_Coffee.exe
+C:\Users\สดซ่าบ้าพลัง\Desktop\Technic_Coffee\Technic_Coffee\bin\Debug\Technic_Coffee.pdb
+C:\Users\สดซ่าบ้าพลัง\Desktop\Technic_Coffee\Technic_Coffee\bin\Debug\Technic_Coffee.xml
+C:\Users\สดซ่าบ้าพลัง\Desktop\Technic_Coffee\Technic_Coffee\obj\Debug\Technic_Coffee.Form1.resources
+C:\Users\สดซ่าบ้าพลัง\Desktop\Technic_Coffee\Technic_Coffee\obj\Debug\Technic_Coffee.Form_Customer.resources
+C:\Users\สดซ่าบ้าพลัง\Desktop\Technic_Coffee\Technic_Coffee\obj\Debug\Technic_Coffee.Form_Login.resources
+C:\Users\สดซ่าบ้าพลัง\Desktop\Technic_Coffee\Technic_Coffee\obj\Debug\Technic_Coffee.Form_Product.resources
+C:\Users\สดซ่าบ้าพลัง\Desktop\Technic_Coffee\Technic_Coffee\obj\Debug\Technic_Coffee.Form_Progress.resources
+C:\Users\สดซ่าบ้าพลัง\Desktop\Technic_Coffee\Technic_Coffee\obj\Debug\Technic_Coffee.Form_Report.resources
+C:\Users\สดซ่าบ้าพลัง\Desktop\Technic_Coffee\Technic_Coffee\obj\Debug\Technic_Coffee.Resources.resources
+C:\Users\สดซ่าบ้าพลัง\Desktop\Technic_Coffee\Technic_Coffee\obj\Debug\Technic_Coffee.vbproj.GenerateResource.Cache
+C:\Users\Tawatchai\Desktop\Technic_Coffee\Technic_Coffee\bin\Debug\Technic_Coffee.exe.config
+C:\Users\Tawatchai\Desktop\Technic_Coffee\Technic_Coffee\obj\Debug\Technic_Coffee.exe
+C:\Users\Tawatchai\Desktop\Technic_Coffee\Technic_Coffee\obj\Debug\Technic_Coffee.xml
+C:\Users\Tawatchai\Desktop\Technic_Coffee\Technic_Coffee\obj\Debug\Technic_Coffee.pdb
+C:\Users\Tawatchai\Desktop\Technic_Coffee\Technic_Coffee\bin\Debug\Technic_Coffee.exe
+C:\Users\Tawatchai\Desktop\Technic_Coffee\Technic_Coffee\bin\Debug\Technic_Coffee.pdb
+C:\Users\Tawatchai\Desktop\Technic_Coffee\Technic_Coffee\bin\Debug\Technic_Coffee.xml
+C:\Users\Tawatchai\Desktop\Technic_Coffee\Technic_Coffee\obj\Debug\Technic_Coffee.Form1.resources
+C:\Users\Tawatchai\Desktop\Technic_Coffee\Technic_Coffee\obj\Debug\Technic_Coffee.Form_Customer.resources
+C:\Users\Tawatchai\Desktop\Technic_Coffee\Technic_Coffee\obj\Debug\Technic_Coffee.Form_Login.resources
+C:\Users\Tawatchai\Desktop\Technic_Coffee\Technic_Coffee\obj\Debug\Technic_Coffee.Form_Product.resources
+C:\Users\Tawatchai\Desktop\Technic_Coffee\Technic_Coffee\obj\Debug\Technic_Coffee.Form_Progress.resources
+C:\Users\Tawatchai\Desktop\Technic_Coffee\Technic_Coffee\obj\Debug\Technic_Coffee.Form_Report.resources
+C:\Users\Tawatchai\Desktop\Technic_Coffee\Technic_Coffee\obj\Debug\Technic_Coffee.Resources.resources
+C:\Users\Tawatchai\Desktop\Technic_Coffee\Technic_Coffee\obj\Debug\Technic_Coffee.vbproj.GenerateResource.Cache
+C:\Users\สดซ่าบ้าพลัง\Desktop\Technic_Coffee\Technic_Coffee\obj\Debug\Technic_Coffee.Form_About.resources
+C:\Users\สดซ่าบ้าพลัง\Google ไดรฟ์\Technic_Coffee\Technic_Coffee\obj\Debug\Technic_Coffee.Form_About.resources
